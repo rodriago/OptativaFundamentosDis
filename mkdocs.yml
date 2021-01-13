@@ -3,3 +3,7 @@ site_name: OptativaFundamentosDis
 theme:
     name: mkdocs
     highlightjs: true
+
+nav:
+    - Inicio: index.md
+    - Introducción: Introduccion.md
