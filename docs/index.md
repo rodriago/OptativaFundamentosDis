@@ -8,4 +8,4 @@ Programa:  Ingeniería en Diseño de Entretenimiento Digital
 
 Créditos y horas totales del curso: 2 créditos - 96 horas totales aproximadamente
 
-[Descripción general del curso, cronograma y evaluación](Introduccion.md.html)
+[Descripción general del curso, cronograma y evaluación](Introduccion.md)
